@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="846da608-1309-4cf2-a94c-59eb523edff7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Mypage.iml" afterPath="$PROJECT_DIR$/.idea/Mypage.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-    </list>
+    <list default="true" id="846da608-1309-4cf2-a94c-59eb523edff7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -278,12 +274,12 @@
       <option name="presentableId" value="Default" />
       <updated>1502537738948</updated>
       <workItem from="1502537740164" duration="7444000" />
-      <workItem from="1502606783622" duration="8314000" />
+      <workItem from="1502606783622" duration="8978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15758000" />
+    <option name="totallyTimeSpent" value="16422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="736" y="24" width="1156" height="1057" extended-state="0" />
