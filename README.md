@@ -6,7 +6,7 @@ This is my introduce rails application.
 ```
 git clone https://github.com/ItinoseSan/MyPage.git
 ```
-### 2.Check the ruby version on rbenv and set same one
+### 2.Check the ruby version on rbenv
 ```
 rbenv versions
 ```
