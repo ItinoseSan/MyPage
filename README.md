@@ -1,24 +1,8 @@
-# README
+# MYPAGE
+# Whats is this?
+This is my introduce rails application.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# これは何？
+僕の自己紹介用のrailsアプリです。少しだけ改良を加えるつもりです
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
