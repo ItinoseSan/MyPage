@@ -1,3 +1,4 @@
+[![](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/ItinoseSan/MyPage/blob/master/LICENCE)
 # MYPAGE
 # Whats is this?
 This is my introduce rails application.
