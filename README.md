@@ -1,24 +1,27 @@
-# README
+[![](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/ItinoseSan/MyPage/blob/master/LICENCE)
+# MYPAGE
+# Whats is this?
+This is my introduce rails application.
+# How to build application on local
+### 1.Clone this repository
+```
+git clone https://github.com/ItinoseSan/MyPage.git
+```
+### 2.Check the ruby version on rbenv
+```
+rbenv versions
+```
+### 3.Import bundler and install bundle
+```
+gem install bundler
+bundle install
+```
+### 4.Try on rails local server
+```
+rails server
+```
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# これは何？
+僕の自己紹介用のrailsアプリです。少しだけ改良を加えるつもりです。ローカル環境で動かすのは上記の方法を確認してください。
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
