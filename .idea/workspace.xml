@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="846da608-1309-4cf2-a94c-59eb523edff7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENCE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/top.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/top.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/top/index.html.erb" afterPath="$PROJECT_DIR$/app/views/top/index.html.erb" />
-    </list>
+    <list default="true" id="846da608-1309-4cf2-a94c-59eb523edff7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -360,12 +353,12 @@
       <workItem from="1503149105012" duration="1207000" />
       <workItem from="1503237249896" duration="935000" />
       <workItem from="1503289334751" duration="4372000" />
-      <workItem from="1503482856840" duration="3328000" />
+      <workItem from="1503482856840" duration="3404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41522000" />
+    <option name="totallyTimeSpent" value="41598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
