@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="846da608-1309-4cf2-a94c-59eb523edff7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Mypage.iml" afterPath="$PROJECT_DIR$/.idea/Mypage.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/top/index.html.erb" afterPath="$PROJECT_DIR$/app/views/top/index.html.erb" />
-    </list>
+    <list default="true" id="846da608-1309-4cf2-a94c-59eb523edff7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -119,7 +114,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="241" />
+    <option name="x" value="622" />
     <option name="y" value="24" />
     <option name="width" value="1405" />
     <option name="height" value="1056" />
@@ -372,15 +367,15 @@
       <workItem from="1503289334751" duration="4372000" />
       <workItem from="1503482856840" duration="3678000" />
       <workItem from="1503660516859" duration="215000" />
-      <workItem from="1503919319428" duration="99000" />
+      <workItem from="1503919319428" duration="176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42186000" />
+    <option name="totallyTimeSpent" value="42263000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="241" y="24" width="1405" height="1056" extended-state="0" />
+    <frame x="622" y="24" width="1405" height="1056" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30035588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
