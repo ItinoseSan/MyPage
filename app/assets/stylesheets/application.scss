@@ -52,18 +52,26 @@ h2{
   line-height: 40px;
   width: 20em;
 }
+p{
+  color: beige;
+  font-size: 18pt;
+  font-family: 'Josefin Sans', sans-serif;
+  line-height: 40px;
+  width: 20em;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 h3{
   color: beige;
-  font-size: 18pt;
+  font-size: 23pt;
   font-family: 'Josefin Sans',sans-serif;
-
 }
 
 h4{
-  text-align: center;
+  font-size: 130pt;
   padding-top: 10px;
-  font-size:160px;
+  text-align: center;
   color: #F7F7F7;
 }
 div.topView{
@@ -84,6 +92,8 @@ body {
   0% {opacity: 0}
   100% {opacity: 1}
 }
+
+
 
 @-webkit-keyframes fadeIn {
   0% {opacity: 0}
@@ -129,7 +139,15 @@ h5{
   background: #6bcffd;
   z-index: 1;
 }
-
+.ul-set{
+  text-align: center;
+}
+.ul-set li{
+  padding-left: 0;
+  color: beige;
+  font-size: 18pt;
+  list-style-type: none;
+}
 #loader-bg #loader {
   position: fixed;
   top: 50%;
